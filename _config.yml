@@ -1,0 +1,11 @@
+# Site settings
+title: Carissa Sudjono
+email: csudjono@gmail.com
+description: Experimenting with Jekyll
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: carissalestari
+github_username:  csudjono
+
+# Build settings
+markdown: kramdown
